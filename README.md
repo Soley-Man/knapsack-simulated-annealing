@@ -1,4 +1,4 @@
-# knapsack-simulated-annealing
+# Learning Simulated Annealing by solving the Knapsack Problem
 This project is an introductory exercise to simulated annealing. To learn the basic structure of this type of algorithms I coded a SA algorithm from scratch to solve the 0/1 knapsack problem.
 
 ## The Knapsack Problem
